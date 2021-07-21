@@ -1,0 +1,1 @@
+Start server with `npx babel-node src/server.js`
